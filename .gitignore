@@ -2,6 +2,8 @@ output/*
 work_dirs/*
 checkpoints/*
 configs/*
+data/img/detection/private/*
+data/img/detection/extincteur/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -108,8 +110,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-data/
-data
 .vscode
 .idea
 .DS_Store
